@@ -13,7 +13,7 @@
 -	如何使用github高效的学习
 -	git常用命令使用
 -	动态css技术 scss，less
--	前段开发工具，submit常用的插件安装和使用
+-	前段开发工具，sublime text常用的插件安装和使用
 -	node.js环境和常用工具的使用
 -	浏览器js和css代码调试
 -	熟练使用boostrap jquery
@@ -39,7 +39,8 @@
 
 ## 技术博客
 
--	[阮一峰](http://www.ruanyifeng.com/blog/)  
+-	[阮一峰](http://www.ruanyifeng.com/blog/)
 
 
 ## 小组成员的技术博客
+- 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
