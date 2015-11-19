@@ -46,3 +46,9 @@
 
 - 刘彦玮 [blog](http://liuyanwei.jumppo.com/index.html)
 - 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
+
+## 期待
+
+期待有更多的人参与进来一起学习、交流、成长
+
+如果想加入请把自己的blog和名称写到[学习小组成员和成员技术博客](#学习小组成员)中，并且推送到主仓库。blog内可以写一些前端的技术和一些与学习内容匹配的文章和学习心得，后面会放到学习内容中。
