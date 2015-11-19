@@ -3,7 +3,7 @@
 * [初级学习内容](#初级学习内容)
 * [中级学习内容-待更新](#中级学习内容)
 * [学习资源](#学习资源)
-* [学习小组成员](#学习小组成员)
+* [学习小组成员和成员技术博客](#学习小组成员)
 * [期待](#期待)
 
 
@@ -42,5 +42,7 @@
 -	[阮一峰](http://www.ruanyifeng.com/blog/)
 
 
-## 小组成员的技术博客
+## 学习小组成员和成员技术博客
+
+- 刘彦玮 [blog](http://liuyanwei.jumppo.com/index.html)
 - 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
