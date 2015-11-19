@@ -46,7 +46,7 @@
 
 - 刘彦玮 [blog](http://liuyanwei.jumppo.com/index.html)
 - 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
-
+- 周明 [CSDN](http://blog.csdn.net/zm3250530)
 ## 期待
 
 期待有更多的人参与进来一起学习、交流、成长
