@@ -10,14 +10,14 @@
 
 ## Table Of Contents
 
-* [Point-level1](#Point-level1)
-* [Point-level2-待更新](#Point-level1)
+* [Knowledge-Point-lv1](#Knowledge-Point-lv1)
+* [Knowledge-Point-lv2](#Knowledge-Point-lv2)
 * [学习资源](#学习资源)
 * [学习小组成员和成员技术博客](#学习小组成员)
 * [期待](#期待)
 
 
-##  Point-level1
+##  Knowledge-Point-lv1
 
 -	技术博客搭建
 -	如何使用github高效的学习
@@ -27,6 +27,10 @@
 -	node.js环境和常用工具的使用
 -	浏览器js和css代码调试
 -	熟练使用boostrap jquery
+
+##  Knowledge-Point-lv2
+
+-	requirejs
 
 
 ## 学习资源
