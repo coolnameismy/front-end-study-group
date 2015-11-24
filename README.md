@@ -10,14 +10,14 @@
 
 ## Table Of Contents
 
-* [Point-初级](#初级学习内容)
-* [Point-中级-待更新](#中级学习内容)
+* [Point-level1](#Point-level1)
+* [Point-level2-待更新](#Point-level1)
 * [学习资源](#学习资源)
 * [学习小组成员和成员技术博客](#学习小组成员)
 * [期待](#期待)
 
 
-##  Point-初级
+##  Point-level1
 
 -	技术博客搭建
 -	如何使用github高效的学习
