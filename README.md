@@ -19,9 +19,9 @@
 
 ##  Knowledge-Point-lv1
 
--	技术博客搭建
--	如何使用github高效的学习
--	git常用命令使用
+-	[技术博客搭建][1]
+-	如何使用github高效的学习 
+-	git常用命令使用[][1]
 -	动态css技术 scss，less
 -	前段开发工具，sublime text常用的插件安装和使用
 -	node.js环境和常用工具的使用
@@ -30,7 +30,7 @@
 
 ##  Knowledge-Point-lv2
 
--	requirejs
+-	[requirejs][2]
 
 
 ## 学习资源
@@ -69,3 +69,5 @@
 期待大家积极分享point和相关文章，期待有更多的人参与进来一起学习、交流、成长。
 
  
+[1]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level1/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.md
+[2]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level2/requirejs.md
