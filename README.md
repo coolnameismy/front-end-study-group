@@ -1,4 +1,4 @@
-# Introduce
+﻿# Introduce
 
 这个repo是作为web前端工程师学习使用。目前repo刚刚开始，内容还不是很多，正在不断完善中。repo假设所有参与者都已经熟悉掌握html，css，js等基础内容。
 
@@ -64,6 +64,7 @@
 - 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
 - 周明 [CSDN](http://blog.csdn.net/zm3250530)
 - 吴珏 [blog](http://aawujue.github.io)
+- 蒋超 [blog](http://jiangchao0319.github.io)
 
 ## 期待
 
