@@ -4,8 +4,8 @@
 
 用法：repo中Point中列出了web前端工程师在进阶过程中需要学习的技术和对应技术的相关学习材料，你有2种方式参与
 
-1.  学习：直接学习Point中的内容 或提出你关注的但目前还未存在的Point（[提供Point](https://github.com/coolnameismy/front-end-study-group/issues/4)）
-2.  把你自己学习Point写成文章分享给大家（[分享方式？](https://github.com/coolnameismy/front-end-study-group/issues/3)）
+1.  学习：直接学习Knowledge-Point中的内容 或提出你关注的但目前还未存在的Knowledge-Point（[提供Point](https://github.com/coolnameismy/front-end-study-group/issues/3)）
+2.  把你自己学习Knowledge-Point写成文章分享给大家（[分享方式？](https://github.com/coolnameismy/front-end-study-group/issues/3)）
 
 
 ## Table Of Contents
