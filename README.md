@@ -63,6 +63,7 @@
 - 刘彦玮 [blog](http://liuyanwei.jumppo.com/index.html)
 - 赵彪 [新](https://buildall.github.io/),[旧](http://blog.csdn.net/developer_biao)
 - 周明 [CSDN](http://blog.csdn.net/zm3250530)
+- 吴珏 [blog](http://aawujue.github.io)
 
 ## 期待
 
