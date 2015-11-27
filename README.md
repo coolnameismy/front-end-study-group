@@ -21,10 +21,9 @@
 
 -	[技术博客搭建][1]
 -	[如何使用github高效的学习][3]
+-	[前端开发工具和环境搭建](4)
 -	git常用命令使用
 -	动态css技术 scss，less
--	前段开发工具，sublime text常用的插件安装和使用
--	node.js环境和常用工具的使用
 -	浏览器js和css代码调试
 -	熟练使用boostrap jquery
 
@@ -73,3 +72,4 @@
 [1]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level1/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.md
 [2]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level2/requirejs.md
 [3]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level1/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github%E9%AB%98%E6%95%88%E7%9A%84%E5%AD%A6%E4%B9%A0.md
+[4]:http://liuyanwei.jumppo.com/2015/11/27/fe-environment.html
