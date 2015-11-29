@@ -56,8 +56,9 @@
 - [可汗学院](www.khanacademy.org)
 - [慕课网](http://www.imooc.com/)
 - [网易云课堂](http://study.163.com/)
+- [极客标签](http://www.gbtags.com)
 
-## 技术博客
+技术博客
 
 -	[阮一峰](http://www.ruanyifeng.com/blog/)
 -	[fouber/blog](https://github.com/fouber/blog)
