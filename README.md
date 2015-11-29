@@ -23,13 +23,18 @@
 -	[如何使用github高效的学习][3]
 -	[前端开发工具和环境搭建][4]
 -	git常用命令使用
--	动态css技术 scss，less
+-	动态css技术 sass和less
 -	浏览器js和css代码调试
--	熟练使用boostrap jquery
+-	gulp自动构建
+-	
 
 ##  Knowledge-Point-lv2
 
 -	[requirejs][2]
+-	sea.js
+-	Zepto.js
+-	handlerbars.js
+
 
 
 ## 学习资源
@@ -55,7 +60,8 @@
 ## 技术博客
 
 -	[阮一峰](http://www.ruanyifeng.com/blog/)
-
+-	[fouber/blog](https://github.com/fouber/blog)
+-	[amfe/article](https://github.com/amfe/article)
 
 ## 学习小组成员和成员技术博客
 
