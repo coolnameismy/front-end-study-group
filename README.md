@@ -22,8 +22,9 @@
 -	[技术博客搭建][1]
 -	[如何使用github高效的学习][3]
 -	[前端开发工具和环境搭建][4]
--	git常用命令使用
--	动态css技术 sass和less
+-	[css编码规范][5]
+-	[git常用命令][6]
+-	动态css:[sass][7]和less
 -	浏览器js和css代码调试
 -	gulp自动构建
 -	
@@ -81,3 +82,6 @@
 [2]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level2/requirejs.md
 [3]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level1/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8github%E9%AB%98%E6%95%88%E7%9A%84%E5%AD%A6%E4%B9%A0.md
 [4]:http://liuyanwei.jumppo.com/2015/11/27/fe-environment.html
+[5]:http://codeguide.bootcss.com/
+[6]:http://segmentfault.com/a/1190000002479970
+[7]:http://www.w3cplus.com/sassguide/syntax.html
