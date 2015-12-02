@@ -1,4 +1,4 @@
-﻿# Introduce
+# Introduce
 
 这个repo是作为web前端工程师学习使用。目前repo刚刚开始，内容还不是很多，正在不断完善中。repo假设所有参与者都已经熟悉掌握html，css，js等基础内容。
 
@@ -31,8 +31,7 @@
 
 ##  Knowledge-Point-lv2
 
--	[requirejs][2]
--	sea.js
+-	[requirejs][2] | sea.js | [webpack][8]
 -	Zepto.js
 -	handlerbars.js
 
@@ -50,7 +49,7 @@
 -	[javascriptissexy](http://javascriptissexy.com/)
 -	[css编程规范](http://cssguidelin.es/)
 -	[ccs guide](http://cssguidelin.es/)
-
+-   [segmentfault](http://segmentfault.com/)
 
 在线课程
 
@@ -75,8 +74,7 @@
 
 ## 期待
 
-期待大家积极分享point和相关文章，期待有更多的人参与进来一起学习、交流、成长。
-
+期待大家积极分享知识点和相关文章，期待有更多的人参与进来一起学习、交流、成长。
  
 [1]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level1/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA.md
 [2]:https://github.com/coolnameismy/front-end-study-group/blob/master/Point/level2/requirejs.md
@@ -85,3 +83,4 @@
 [5]:http://codeguide.bootcss.com/
 [6]:http://segmentfault.com/a/1190000002479970
 [7]:http://www.w3cplus.com/sassguide/syntax.html
+[8]:https://github.com/petehunt/webpack-howto
