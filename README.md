@@ -72,6 +72,7 @@
 - 周明 [CSDN](http://blog.csdn.net/zm3250530)
 - 吴珏 [blog](http://aawujue.github.io)
 - 蒋超 [blog](http://jiangchao0319.github.io)
+- 胡蓉 [blog](http://likengkeng.github.io)
 
 ## 期待
 
