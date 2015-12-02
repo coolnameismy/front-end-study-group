@@ -50,6 +50,8 @@
 -	[css编程规范](http://cssguidelin.es/)
 -	[ccs guide](http://cssguidelin.es/)
 -   [segmentfault](http://segmentfault.com/)
+-   [fouber/blog](https://github.com/fouber/blog)
+-   [dev of mozilla](https://developer.mozilla.org/en-US/)
 
 在线课程
 
