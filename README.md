@@ -33,7 +33,7 @@
 
 -	[requirejs][2] | sea.js | [webpack][8]
 -	Zepto.js
--	handlerbars.js
+-	[handlerbars.js][9]
 
 
 
@@ -87,3 +87,4 @@
 [6]:http://segmentfault.com/a/1190000002479970
 [7]:http://www.w3cplus.com/sassguide/syntax.html
 [8]:https://github.com/petehunt/webpack-howto
+[9]:http://liuyanwei.jumppo.com/2015/12/03/fe-js-handlebars.html
