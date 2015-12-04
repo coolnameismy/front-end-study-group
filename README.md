@@ -65,6 +65,7 @@
 -	[阮一峰](http://www.ruanyifeng.com/blog/)
 -	[fouber/blog](https://github.com/fouber/blog)
 -	[amfe/article](https://github.com/amfe/article)
+-   [stylechen](http://stylechen.com/)
 
 ## 学习小组成员和成员技术博客
 
