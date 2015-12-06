@@ -26,13 +26,13 @@
 -	[git常用命令][6]
 -	动态css:[sass][7]和less
 -	浏览器js和css代码调试
--	gulp自动构建
--	
+-	[gulp自动构建][11]
+
 
 ##  Knowledge-Point-lv2
 
--	[requirejs][2] | sea.js | [webpack][8]
--	Zepto.js
+-	[requirejs][2] | [sea.js][10] | [webpack][8]
+-	Zepto.js | jquery
 -	[handlerbars.js][9]
 
 
@@ -66,6 +66,8 @@
 -	[fouber/blog](https://github.com/fouber/blog)
 -	[amfe/article](https://github.com/amfe/article)
 -   [stylechen](http://stylechen.com/)
+-   [寸志的博客](http://island205.com/)
+-   [玉伯](https://github.com/lifesinger/lifesinger.github.io/issues)
 
 ## 学习小组成员和成员技术博客
 
@@ -89,3 +91,5 @@
 [7]:http://www.w3cplus.com/sassguide/syntax.html
 [8]:https://github.com/petehunt/webpack-howto
 [9]:http://liuyanwei.jumppo.com/2015/12/03/fe-js-handlebars.html
+[10]:http://island205.com/HelloSea.js/
+[11]:http://liuyanwei.jumppo.com/2015/12/01/fe-engineering-gulp.html
