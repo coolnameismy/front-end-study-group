@@ -34,6 +34,7 @@
 -	[requirejs][2] | [sea.js][10] | [webpack][8]
 -	Zepto.js | jquery
 -	[handlerbars.js][9]
+-   [AngularJS][AngularJS]
 
 
 
@@ -96,3 +97,4 @@
 [9]:http://liuyanwei.jumppo.com/2015/12/03/fe-js-handlebars.html
 [10]:http://island205.com/HelloSea.js/
 [11]:http://liuyanwei.jumppo.com/2015/12/01/fe-engineering-gulp.html
+[AngularJS]:[https://github.com/xufei/blog]
