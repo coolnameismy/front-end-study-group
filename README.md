@@ -70,7 +70,7 @@
 -   [寸志的博客](http://island205.com/)
 -   [玉伯](https://github.com/lifesinger/lifesinger.github.io/issues)
 -   [进击的马斯特](http://pinkyjie.com/)
-
+-   [jerry Qu](https://imququ.com/archives.html)
 
 
 ## 学习小组成员和成员技术博客
