@@ -24,17 +24,22 @@
 -	[前端开发工具和环境搭建][4]
 -	[css编码规范][5]
 -	[git常用命令][6]
--	动态css:[sass][7]和less
+-	动态css:[sass][7]  |  less
 -	浏览器js和css代码调试
--	[gulp自动构建][11]
+-	自动构建：[gulp自动构建][11]  |   [webpack][8]
+-   单点测试: asmine mocha
+-   模拟测试: karma phantomjs
+-   大前端: express koa
 
 
 ##  Knowledge-Point-lv2
 
--	[requirejs][2] | [sea.js][10] | [webpack][8]
+-	[requirejs][2] | [sea.js][10] 
 -	Zepto.js | jquery
 -	[handlerbars.js][9]
 -   [AngularJS][AngularJS]
+-   Reactjs
+-   Vue.js
 
 
 
